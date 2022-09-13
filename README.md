@@ -5,7 +5,7 @@
 ### Felkészülés
 
 1. [Ismerkedés](./get-to-know.md)
-2. Számítógépes alapok
+2. [Számítógépes alapok](./basics.md)
 
 ### Javacript alapok
 
@@ -40,7 +40,7 @@
 ### Felkészülés
 
 1. [Ismerkedés](./get-to-know.md)
-2. Számítógépes alapok
+2. [Számítógépes alapok](./basics.md)
 
 ### Webfejlesztés alapok
 

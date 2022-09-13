@@ -23,6 +23,7 @@
 - Hogy hívnak? (ez csak a mai napra érvényes, meg amíg nem tanulom meg a neveket)
 - Milyen napod van ma?
 - Hogy aludtál tegnap?
+- Van valamilyen (programozós) előképzettséged?
 - Miért választottad ezt a tárgyat
 - Mit vársz ettől a tárgytól?
 
@@ -36,13 +37,13 @@
 - Olívabogyó -  igen/nem (Így jártam anyátokkal - bogyóelmélet)
 - Kóla, Fanta
 - Kávé, Energiaital
-- Tengerpart, Kirándulás - Hova - kedvenc hely?
+- Tengerparton hesszelés, Kirándulás - Hova - kedvenc hely?
 - Számítógép, mobiltelefon - WHY?
 - Asztali számítógép, laptop - WHY?
 - Játszani szeretsz, social media időtöltés - WHY?
-- Android, iOS - WHY?
 - Mobilalkamazás, Weboldal - WHY?
-- Kreativitás, Logikai feladatok - WHY?
+- Android, iOS - WHY?
+- Kreatív feladatok, Logikai feladatok - WHY?
 
 ## Mese a szoftverfejlesztésről
 
