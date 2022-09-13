@@ -96,6 +96,8 @@ git push
 
 ## Feladatok
 
+- Nyisd meg a Visual Studio Code-ot
+- Nyisd meg a terminált
 - Hozz létre egy mappát a neveddel a számítógépen
 - Hozz benne létre egy cica.txt nevű file-t
 - Hozz létre egy mappát a saját névvel ellátodd mappádban
