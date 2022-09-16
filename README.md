@@ -9,9 +9,9 @@
 
 ### Javacript alapok
 
-3. Változók
-4. If statement
-5. Ciklusok
+3. [Változók](javascript-basics/variables.md)
+4. [If statement](javascript-basics/if-and-loops.md)
+5. [Ciklusok](javascript-basics/if-and-loops.md)
 6. Függvények
 7. Tömbök
 8. Objektumok
@@ -44,14 +44,14 @@
 
 ### Webfejlesztés alapok
 
-3. HTML&CSS
-4. HTML&CSS
+3. [HTML&CSS](./html.md)
+4. [HTML&CSS](./css.md)
 
 ### Javacript alapok
 
-5. Változók
-6. If statement
-7. Ciklusok
+5. [Változók](javascript-basics/variables.md)
+6. [If statement](javascript-basics/if-and-loops.md)
+7. [Ciklusok](javascript-basics/if-and-loops.md)
 8. Függvények
 9. Tömbök
 10. Objektumok

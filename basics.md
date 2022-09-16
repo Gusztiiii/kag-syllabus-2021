@@ -72,7 +72,6 @@
 - ls / dir (ls -a)
 - mkdir
 - rm
-- touch
 - mv
 - cp
 - code
